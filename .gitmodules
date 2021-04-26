@@ -1,0 +1,3 @@
+[submodule "AccesoBaseDatos/DBPruebaUno-PR"]
+	path = AccesoBaseDatos/DBPruebaUno-PR
+	url = https://github.com/AlfonMML-dev/DBPruebaUno-PR
